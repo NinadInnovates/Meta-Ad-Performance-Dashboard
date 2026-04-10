@@ -55,3 +55,4 @@ Integrate real-time data.
 
 Screenshot:
 
+Dashboard Preview : - (https://github.com/NinadInnovates/Meta-Ad-Performance-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
